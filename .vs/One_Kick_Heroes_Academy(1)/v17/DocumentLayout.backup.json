@@ -1,0 +1,232 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\BC 2nd Year\\PRG 282\\Project\\Final_Final\\One_Kick_Heroes_Academy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A572F2A-EEF2-4596-BAB8-9972835CD736}|One_Kick_Heroes_Academy.csproj|D:\\BC 2nd Year\\PRG 282\\Project\\Final_Final\\One_Kick_Heroes_Academy\\datalayer\\filehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A572F2A-EEF2-4596-BAB8-9972835CD736}|One_Kick_Heroes_Academy.csproj|solutionrelative:datalayer\\filehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A572F2A-EEF2-4596-BAB8-9972835CD736}|One_Kick_Heroes_Academy.csproj|d:\\bc 2nd year\\prg 282\\project\\final_final\\one_kick_heroes_academy\\forms\\edit hero details.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A572F2A-EEF2-4596-BAB8-9972835CD736}|One_Kick_Heroes_Academy.csproj|solutionrelative:forms\\edit hero details.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A572F2A-EEF2-4596-BAB8-9972835CD736}|One_Kick_Heroes_Academy.csproj|D:\\BC 2nd Year\\PRG 282\\Project\\Final_Final\\One_Kick_Heroes_Academy\\businesslogiclayer\\superhero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A572F2A-EEF2-4596-BAB8-9972835CD736}|One_Kick_Heroes_Academy.csproj|solutionrelative:businesslogiclayer\\superhero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A572F2A-EEF2-4596-BAB8-9972835CD736}|One_Kick_Heroes_Academy.csproj|d:\\bc 2nd year\\prg 282\\project\\final_final\\one_kick_heroes_academy\\forms\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A572F2A-EEF2-4596-BAB8-9972835CD736}|One_Kick_Heroes_Academy.csproj|solutionrelative:forms\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A572F2A-EEF2-4596-BAB8-9972835CD736}|One_Kick_Heroes_Academy.csproj|d:\\bc 2nd year\\prg 282\\project\\final_final\\one_kick_heroes_academy\\forms\\addnewhero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A572F2A-EEF2-4596-BAB8-9972835CD736}|One_Kick_Heroes_Academy.csproj|solutionrelative:forms\\addnewhero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A572F2A-EEF2-4596-BAB8-9972835CD736}|One_Kick_Heroes_Academy.csproj|D:\\BC 2nd Year\\PRG 282\\Project\\Final_Final\\One_Kick_Heroes_Academy\\datalayer\\datamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A572F2A-EEF2-4596-BAB8-9972835CD736}|One_Kick_Heroes_Academy.csproj|solutionrelative:datalayer\\datamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A572F2A-EEF2-4596-BAB8-9972835CD736}|One_Kick_Heroes_Academy.csproj|D:\\BC 2nd Year\\PRG 282\\Project\\Final_Final\\One_Kick_Heroes_Academy\\forms\\edit hero details.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1A572F2A-EEF2-4596-BAB8-9972835CD736}|One_Kick_Heroes_Academy.csproj|solutionrelative:forms\\edit hero details.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A572F2A-EEF2-4596-BAB8-9972835CD736}|One_Kick_Heroes_Academy.csproj|D:\\BC 2nd Year\\PRG 282\\Project\\Final_Final\\One_Kick_Heroes_Academy\\forms\\addnewhero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1A572F2A-EEF2-4596-BAB8-9972835CD736}|One_Kick_Heroes_Academy.csproj|solutionrelative:forms\\addnewhero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A572F2A-EEF2-4596-BAB8-9972835CD736}|One_Kick_Heroes_Academy.csproj|D:\\BC 2nd Year\\PRG 282\\Project\\Final_Final\\One_Kick_Heroes_Academy\\forms\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1A572F2A-EEF2-4596-BAB8-9972835CD736}|One_Kick_Heroes_Academy.csproj|solutionrelative:forms\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A572F2A-EEF2-4596-BAB8-9972835CD736}|One_Kick_Heroes_Academy.csproj|D:\\BC 2nd Year\\PRG 282\\Project\\Final_Final\\One_Kick_Heroes_Academy\\forms\\view.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1A572F2A-EEF2-4596-BAB8-9972835CD736}|One_Kick_Heroes_Academy.csproj|solutionrelative:forms\\view.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A572F2A-EEF2-4596-BAB8-9972835CD736}|One_Kick_Heroes_Academy.csproj|D:\\BC 2nd Year\\PRG 282\\Project\\Final_Final\\One_Kick_Heroes_Academy\\forms\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1A572F2A-EEF2-4596-BAB8-9972835CD736}|One_Kick_Heroes_Academy.csproj|solutionrelative:forms\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A572F2A-EEF2-4596-BAB8-9972835CD736}|One_Kick_Heroes_Academy.csproj|D:\\BC 2nd Year\\PRG 282\\Project\\Final_Final\\One_Kick_Heroes_Academy\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A572F2A-EEF2-4596-BAB8-9972835CD736}|One_Kick_Heroes_Academy.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\BC 2nd Year\\PRG 282\\Project\\Final_Final\\One_Kick_Heroes_Academy\\Form1.Designer(1).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Form1.Designer(1).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit Hero Details.cs",
+              "DocumentMoniker": "D:\\BC 2nd Year\\PRG 282\\Project\\Final_Final\\One_Kick_Heroes_Academy\\Forms\\Edit Hero Details.cs",
+              "RelativeDocumentMoniker": "Forms\\Edit Hero Details.cs",
+              "ToolTip": "D:\\BC 2nd Year\\PRG 282\\Project\\Final_Final\\One_Kick_Heroes_Academy\\Forms\\Edit Hero Details.cs*",
+              "RelativeToolTip": "Forms\\Edit Hero Details.cs*",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAqwEcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T20:05:45.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SuperHero.cs",
+              "DocumentMoniker": "D:\\BC 2nd Year\\PRG 282\\Project\\Final_Final\\One_Kick_Heroes_Academy\\BusinessLogicLayer\\SuperHero.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\SuperHero.cs",
+              "ToolTip": "D:\\BC 2nd Year\\PRG 282\\Project\\Final_Final\\One_Kick_Heroes_Academy\\BusinessLogicLayer\\SuperHero.cs*",
+              "RelativeToolTip": "BusinessLogicLayer\\SuperHero.cs*",
+              "ViewState": "AgIAADoAAAAAAAAAAAAcwFYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T14:38:23.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddNewHero.cs",
+              "DocumentMoniker": "D:\\BC 2nd Year\\PRG 282\\Project\\Final_Final\\One_Kick_Heroes_Academy\\Forms\\AddNewHero.cs",
+              "RelativeDocumentMoniker": "Forms\\AddNewHero.cs",
+              "ToolTip": "D:\\BC 2nd Year\\PRG 282\\Project\\Final_Final\\One_Kick_Heroes_Academy\\Forms\\AddNewHero.cs",
+              "RelativeToolTip": "Forms\\AddNewHero.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAjwEgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T20:11:36.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Report.cs",
+              "DocumentMoniker": "D:\\BC 2nd Year\\PRG 282\\Project\\Final_Final\\One_Kick_Heroes_Academy\\Forms\\Report.cs",
+              "RelativeDocumentMoniker": "Forms\\Report.cs",
+              "ToolTip": "D:\\BC 2nd Year\\PRG 282\\Project\\Final_Final\\One_Kick_Heroes_Academy\\Forms\\Report.cs",
+              "RelativeToolTip": "Forms\\Report.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAswIcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T15:15:54.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileHandler.cs",
+              "DocumentMoniker": "D:\\BC 2nd Year\\PRG 282\\Project\\Final_Final\\One_Kick_Heroes_Academy\\DataLayer\\FileHandler.cs",
+              "RelativeDocumentMoniker": "DataLayer\\FileHandler.cs",
+              "ToolTip": "D:\\BC 2nd Year\\PRG 282\\Project\\Final_Final\\One_Kick_Heroes_Academy\\DataLayer\\FileHandler.cs",
+              "RelativeToolTip": "DataLayer\\FileHandler.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAwwEEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T15:15:16.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit Hero Details.cs [Design]",
+              "DocumentMoniker": "D:\\BC 2nd Year\\PRG 282\\Project\\Final_Final\\One_Kick_Heroes_Academy\\Forms\\Edit Hero Details.cs",
+              "RelativeDocumentMoniker": "Forms\\Edit Hero Details.cs",
+              "ToolTip": "D:\\BC 2nd Year\\PRG 282\\Project\\Final_Final\\One_Kick_Heroes_Academy\\Forms\\Edit Hero Details.cs [Design]*",
+              "RelativeToolTip": "Forms\\Edit Hero Details.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T14:46:56.638Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DataManager.cs",
+              "DocumentMoniker": "D:\\BC 2nd Year\\PRG 282\\Project\\Final_Final\\One_Kick_Heroes_Academy\\DataLayer\\DataManager.cs",
+              "RelativeDocumentMoniker": "DataLayer\\DataManager.cs",
+              "ToolTip": "D:\\BC 2nd Year\\PRG 282\\Project\\Final_Final\\One_Kick_Heroes_Academy\\DataLayer\\DataManager.cs",
+              "RelativeToolTip": "DataLayer\\DataManager.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAkwCsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T14:40:34.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Report.cs [Design]",
+              "DocumentMoniker": "D:\\BC 2nd Year\\PRG 282\\Project\\Final_Final\\One_Kick_Heroes_Academy\\Forms\\Report.cs",
+              "RelativeDocumentMoniker": "Forms\\Report.cs",
+              "ToolTip": "D:\\BC 2nd Year\\PRG 282\\Project\\Final_Final\\One_Kick_Heroes_Academy\\Forms\\Report.cs [Design]",
+              "RelativeToolTip": "Forms\\Report.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T14:55:51.272Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddNewHero.cs [Design]",
+              "DocumentMoniker": "D:\\BC 2nd Year\\PRG 282\\Project\\Final_Final\\One_Kick_Heroes_Academy\\Forms\\AddNewHero.cs",
+              "RelativeDocumentMoniker": "Forms\\AddNewHero.cs",
+              "ToolTip": "D:\\BC 2nd Year\\PRG 282\\Project\\Final_Final\\One_Kick_Heroes_Academy\\Forms\\AddNewHero.cs [Design]",
+              "RelativeToolTip": "Forms\\AddNewHero.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T14:53:08.808Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "View.cs [Design]",
+              "DocumentMoniker": "D:\\BC 2nd Year\\PRG 282\\Project\\Final_Final\\One_Kick_Heroes_Academy\\Forms\\View.cs",
+              "RelativeDocumentMoniker": "Forms\\View.cs",
+              "ToolTip": "D:\\BC 2nd Year\\PRG 282\\Project\\Final_Final\\One_Kick_Heroes_Academy\\Forms\\View.cs [Design]",
+              "RelativeToolTip": "Forms\\View.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T14:57:35.268Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Dashboard.cs [Design]",
+              "DocumentMoniker": "D:\\BC 2nd Year\\PRG 282\\Project\\Final_Final\\One_Kick_Heroes_Academy\\Forms\\Dashboard.cs",
+              "RelativeDocumentMoniker": "Forms\\Dashboard.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\Belgium stuff year 2\\PRG282\\PROJECT_Final\\PROJECT_Final\\One_Kick_Heroes_Academy\\Forms\\Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T14:55:36.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form1.Designer(1).cs",
+              "DocumentMoniker": "D:\\BC 2nd Year\\PRG 282\\Project\\Final_Final\\One_Kick_Heroes_Academy\\Form1.Designer(1).cs",
+              "RelativeDocumentMoniker": "Form1.Designer(1).cs",
+              "ToolTip": "D:\\BC 2nd Year\\PRG 282\\Project\\Final_Final\\One_Kick_Heroes_Academy\\Form1.Designer(1).cs",
+              "RelativeToolTip": "Form1.Designer(1).cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T13:10:57.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\BC 2nd Year\\PRG 282\\Project\\Final_Final\\One_Kick_Heroes_Academy\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\BC 2nd Year\\PRG 282\\Project\\Final_Final\\One_Kick_Heroes_Academy\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T13:10:34.93Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

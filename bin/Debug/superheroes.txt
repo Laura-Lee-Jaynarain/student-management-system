@@ -1,0 +1,4 @@
+FLS,Flash,26,Super Speed,95,S,Finals Week
+BTMAN,Batman,45,Money,76,A,Midterm Madness
+KRY-SPMAN,SuperMan,45,Super Strength,50,B,Group Project Gone Wrong
+Jim-Bear,J-Man,19,Encourage,20,C,Pop Quiz
